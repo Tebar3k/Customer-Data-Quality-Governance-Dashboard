@@ -1,0 +1,51 @@
+﻿Customer_ID,First_Name,Last_Name,Email,Phone,State,Account_Type,Join_Date,Balance
+1001,Maria,Taylor,maria.taylor1001@email.com,7035559341,MD,Checking,3/21/2024,6249
+1002,John,Jackson,,7035557564,NC,Credit Card,4/23/2024,8975
+1003,Mike,Thomas,invalid_email,7035553679,VA,Checking,8/9/2024,1077
+1004,Lisa,Brown,lisa.brown1004@email.com,,PA,Credit Card,1/21/2024,7677
+1005,Emily,Jackson,emily.jackson1005@email.com,7035554227,NC,Checking,3/8/2024,954
+1006,Maria,Taylor,,7035555998,DC,Savings,6/2/2024,1587
+1007,James,Jones,invalid_email,7035556949,PA,Credit Card,9/11/2024,8839
+1008,Anna,Moore,anna.moore1008@email.com,,PA,Credit Card,9/5/2024,3219
+1009,Maria,Davis,maria.davis1009@email.com,7035553774,DC,Checking,9/25/2024,9077
+1010,James,Jones,james.jones1010@email.com,7035557221,NC,Checking,9/21/2024,9793
+1011,John,Jones,,7035553326,PA,Savings,2/20/2024,8067
+1012,Maria,Thomas,invalid_email,7035553694,NC,Savings,8/2/2024,5610
+1013,Lisa,Jones,lisa.jones1013@email.com,,MD,Credit Card,8/26/2024,5931
+1014,Anna,Taylor,anna.taylor1014@email.com,7035552546,VA,Checking,9/10/2024,9439
+1015,John,Brown,john.brown1015@email.com,7035552850,MD,Savings,6/11/2024,6418
+1016,Emily,Taylor,,7035553713,DC,Checking,3/15/2024,5167
+1017,James,Wilson,invalid_email,7035559882,NC,Savings,3/10/2024,2972
+1018,Lisa,Wilson,lisa.wilson1018@email.com,,VA,Savings,10/2/2024,2278
+1019,Sarah,White,sarah.white1019@email.com,7035558773,NC,Savings,7/25/2024,1097
+1020,Mike,Wilson,mike.wilson1020@email.com,7035558598,VA,Savings,3/1/2024,3079
+1021,Lisa,Jackson,,7035556817,NC,Checking,4/25/2024,8184
+1022,Anna,Thomas,invalid_email,7035556658,MD,Credit Card,1/9/2024,9451
+1023,David,Brown,david.brown1023@email.com,,MD,Checking,11/4/2024,7854
+1024,Maria,Moore,maria.moore1024@email.com,7035556905,VA,Checking,4/10/2024,7685
+1025,Maria,Jackson,maria.jackson1025@email.com,7035554658,VA,Savings,5/25/2024,9102
+1026,James,Smith,james.smith1026@email.com,7035553833,NC,Checking,3/16/2024,4246
+1027,Lisa,Davis,lisa.davis1027@email.com,7035554327,VA,Checking,2/6/2024,6837
+1028,Mike,Jackson,mike.jackson1028@email.com,7035552325,MD,Credit Card,3/14/2024,8634
+1029,Maria,Thomas,maria.thomas1029@email.com,7035556318,VA,Checking,5/28/2024,7070
+1030,John,White,john.white1030@email.com,7035553703,PA,Savings,4/21/2024,9687
+1031,Lisa,Wilson,lisa.wilson1031@email.com,7035553076,NC,Savings,3/10/2024,1462
+1032,Emily,Smith,emily.smith1032@email.com,7035553346,MD,Credit Card,5/3/2024,8309
+1033,Anna,Moore,anna.moore1033@email.com,7035559714,MD,Checking,6/15/2024,9490
+1034,John,Jackson,john.jackson1034@email.com,7035551763,NC,Savings,8/26/2024,9147
+1035,Chris,Brown,chris.brown1035@email.com,7035553160,MD,Savings,1/19/2024,3224
+1036,Maria,Brown,maria.brown1036@email.com,7035559139,PA,Savings,11/26/2024,7318
+1037,James,Wilson,james.wilson1037@email.com,7035554390,DC,Checking,6/18/2024,2470
+1038,Anna,Wilson,anna.wilson1038@email.com,7035559848,NC,Savings,9/8/2024,2868
+1039,Emily,Davis,emily.davis1039@email.com,7035551675,PA,Checking,6/11/2024,7299
+1040,James,Taylor,james.taylor1040@email.com,7035559950,VA,Savings,7/9/2024,2418
+1041,David,Davis,david.davis1041@email.com,7035559495,VA,Credit Card,5/4/2024,3717
+1042,Maria,Moore,maria.moore1042@email.com,7035554397,NC,Checking,8/22/2024,4867
+1043,Chris,Moore,chris.moore1043@email.com,7035557993,MD,Checking,10/4/2024,3322
+1044,Anna,Taylor,anna.taylor1044@email.com,7035552834,DC,Credit Card,10/3/2024,3726
+1045,Anna,Brown,anna.brown1045@email.com,7035554045,PA,Credit Card,11/16/2024,2942
+1001,Maria,Taylor,maria.taylor1001@email.com,7035559341,MD,Checking,3/21/2024,6249
+1009,Maria,Davis,maria.davis1009@email.com,7035553774,DC,Checking,9/25/2024,9077
+1015,John,Brown,john.brown1015@email.com,7035552850,MD,Savings,6/11/2024,6418
+1026,James,Smith,james.smith1026@email.com,7035553833,NC,Checking,3/16/2024,4246
+1031,Lisa,Wilson,lisa.wilson1031@email.com,7035553076,NC,Savings,3/10/2024,1462
